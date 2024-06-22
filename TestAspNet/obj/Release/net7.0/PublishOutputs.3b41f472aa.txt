@@ -1,0 +1,7 @@
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\TestAspNet.exe
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\TestAspNet.dll
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\TestAspNet.deps.json
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\TestAspNet.runtimeconfig.json
+D:\На новый пк\Проэкты\Универ\TestAspNet\TestAspNet\obj\Release\net7.0\PubTmp\Out\TestAspNet.pdb
